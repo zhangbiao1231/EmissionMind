@@ -182,7 +182,7 @@ The prediction accuracy is annotated directly on the plot.
 
 <div align="center">
   <img src= "segment_13_GRU_plot.png" width="45%" />
-  <img src= "segment_13_GRU_plot.png" width="45%" />
+  <img src= "segment_12_LSTM_plot.png" width="45%" />
 </div>
 <p align="center">
   <b>Figure:</b> Inference results on <code>segment_13.csv</code> (by GRU)and <code>segment_12.csv</code>(by LSTM) <br>
