@@ -181,8 +181,8 @@ The figure below shows the comparison between predicted flame states and ground 
 The prediction accuracy is annotated directly on the plot.
 
 <div align="center">
-  <img src= "runs/inference-reg/exp17/processed_segment_13_20230710_1620_to_20230711_0132_plot.png" width="45%" />
-  <img src= "runs/inference-reg/exp22/processed_segment_12_20230709_1626_to_20230710_0239_plot.png" width="45%" />
+  <img src= "segment_13_GRU_plot.png" width="45%" />
+  <img src= "segment_13_GRU_plot.png" width="45%" />
 </div>
 <p align="center">
   <b>Figure:</b> Inference results on <code>segment_13.csv</code> (by GRU)and <code>segment_12.csv</code>(by LSTM) <br>
